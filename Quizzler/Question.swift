@@ -8,6 +8,7 @@
 
 import Foundation
 
+
 class Question{
     
     let questionText : String
@@ -19,5 +20,8 @@ class Question{
         
     }
     }
+
+class myOtherClass{
     
+}
 
